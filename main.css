@@ -1,6 +1,5 @@
 #arriba {
   background: #ff33cc;
-  border: 1px solid #000;
   color: #fff;
   font-size: 20px;
   height: 100px;
@@ -8,7 +7,6 @@
 
 #enmedio {
   background: #cc33ff;
-  border: 1px solid #000;
   color: #fff;
   font-size: 20px;
   height: 100px;
@@ -16,7 +14,6 @@
 
 #abajo {
   background: #33ffcc;
-  border: 1px solid #000;
   color: #fff;
   font-size: 20px;
   height: 100px;
