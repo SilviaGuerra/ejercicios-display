@@ -1,20 +1,30 @@
+p {
+  text-align: center;
+}
+
 #arriba {
+  display: inline-block;
   background: #ff33cc;
   color: #fff;
   font-size: 20px;
-  height: 100px;
+  height: 50px;
+  width: 200px;
 }
 
 #enmedio {
+  display: inline-block;
   background: #cc33ff;
   color: #fff;
   font-size: 20px;
-  height: 100px;
+  height: 50px;
+  width: 200px;
 }
 
 #abajo {
+  display: inline-block;
   background: #33ffcc;
   color: #fff;
   font-size: 20px;
-  height: 100px;
+  height: 50px;
+  width: 200px;
 }
